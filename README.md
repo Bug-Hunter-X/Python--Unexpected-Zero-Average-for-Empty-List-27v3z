@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon Python bug: the silent return of 0 when calculating the average of an empty list.  The `bug.py` file shows the problematic code, while `bugSolution.py` provides a more robust solution that raises an exception for empty input, preventing potential issues downstream.
